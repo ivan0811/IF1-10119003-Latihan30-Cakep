@@ -1,4 +1,4 @@
-package com.warnakepribadian;
+package com.cakep;
 
 import java.util.Scanner;
 
