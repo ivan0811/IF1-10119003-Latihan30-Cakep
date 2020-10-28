@@ -41,5 +41,6 @@ public class Main {
         Main data = new Main();
         data.masukkanJawaban();
         data.tampilJawaban();
+	System.out.println("Developed by : Ivan Faathirza");
     }
 }
